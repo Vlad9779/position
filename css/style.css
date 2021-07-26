@@ -1,0 +1,146 @@
+
+.container {
+    max-width: 1500px;
+    margin: auto;
+}
+
+
+header .background {
+    background-color: #af2024;
+    height: 40px;
+    margin: auto;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+}
+
+header .img {
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    margin: auto;
+
+}
+
+header .logo {
+    padding-left: 268px;
+    top: 59px;
+    margin: auto;
+    position: absolute;
+    margin: auto;
+}
+
+.social-icon {
+
+    display: grid;
+    justify-content: end;
+    bottom: 574px;
+    padding-left: 1450px;
+    position: fixed;
+    z-index: 1;
+}
+
+.btn_soc1 {
+    text-align: center;
+    background-color: #850409;
+    color: white;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    font-size: 33px;
+
+}
+
+.btn_soc2 {
+    text-align: center;
+    background-color: #98161b;
+    color: white;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    font-size: 33px;
+
+}
+
+
+
+.banner {
+    background-color: white;
+    max-width: 710px;
+    height: 750px;
+    margin: auto;
+    bottom: 700px;
+    position: relative;
+    z-index: 1;
+}
+
+
+.banner h1 {
+    background-color: #98161b;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+.player {
+    max-width: 565px;
+    height: 367px;
+    background-color: gray;
+    margin: auto;
+    margin-top: 63px;
+}
+
+.btn_soc3 {
+    color: #af2024;
+    font-size: 55px;
+    margin: auto;
+    background: none;
+    border: none;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 144px;
+
+}
+
+.banner h2 {
+    font-size: 10px;
+    color: #98161b;
+    margin: 29px 73px;
+    font-family: 'Arvo', serif;
+}
+
+span {
+    color: gray;
+
+}
+h2:after{
+    content:"........." ;
+    display: flex;
+    padding-top: 13px;
+}
+
+p {
+    font-size: 10px;
+    color: #98161b;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Arvo', serif;
+}
+section {
+    background-color: #3f0002;
+    position: relative;
+    width: 100%;
+    padding-top: 40px;
+    bottom: 768px;
+    z-index: 0;
+}
+
+footer {
+    background-color: black;
+    height: 454px;
+    max-width: 1501px;
+    margin: auto;
+    position: relative;
+    bottom: 768px;
+}
