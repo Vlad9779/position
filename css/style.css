@@ -47,7 +47,6 @@ header .logo {
     line-height: 50px;
     margin: auto;
     font-size: 33px;
-
 }
 
 .btn_soc2 {
@@ -61,8 +60,6 @@ header .logo {
     font-size: 33px;
 
 }
-
-
 
 .banner {
     background-color: white;
@@ -112,7 +109,6 @@ header .logo {
 
 span {
     color: gray;
-
 }
 h2:after{
     content:"........." ;
